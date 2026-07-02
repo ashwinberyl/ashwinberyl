@@ -1,89 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=ASHWIN%20KALAICHANDRAN&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Platform%20Engineer%20%C2%B7%20DevSecOps&descAlignY=55&descSize=18&descColor=94a3b8" width="100%"/>
+<a href="https://ashwinberyl.github.io">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=500&height=70&lines=%24+whoami;Ashwin+Kalaichandran" alt="Typing SVG" />
+</a>
 
-<br>
+**Platform Engineer · DevSecOps · 8 Years**
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=650&lines=make+the+right+way+the+easy+way;150%2B+developers+self-serve+on+what+I+build;45min+deploys+%E2%86%92+25min;security+shifted+left%2C+not+bolted+on;currently%3A+building+MCP+servers+%2B+AI+workflows" alt="Typing SVG" />
+*I write apps & I build the ground they stand on.*
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=flat-square&logo=googlechrome&logoColor=white)](https://ashwinberyl.github.io)
+[![Email](https://img.shields.io/badge/Email-3fb950?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwinberyl@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-f78166?style=flat-square&logo=hashnode&logoColor=white)](https://ashwinberyl.github.io/blogs/)
 
 </div>
 
-<br>
+---
 
-## `$ whoami --verbose`
+### 👤 &nbsp;About Me
 
 ```yaml
-role:      Platform Engineer / DevSecOps
-location:  Bengaluru, IN
-mission:   make the right way the easy way
-based on:  8 years, Aptiv · HCLTech · Cognizant
+location: Bengaluru, India
+role: Platform Engineer — DevSecOps @ Aptiv
+focus: Cloud Infrastructure, CI/CD, Security, Developer Experience
+education: B.E. Mechanical — Anna University, 2017
+
+philosophy: >
+  The best platform engineering is invisible. Developers shouldn't
+  need to think about infra — they should just ship.
 ```
 
-<br>
+---
 
-## `$ terraform apply -target=impact`
+### ⚡ &nbsp;Impact
 
-<table align="center">
-<tr>
-<td align="center" width="180"><b>150+</b><br><sub>devs self-served</sub></td>
-<td align="center" width="180"><b>45→25 min</b><br><sub>deploy time cut</sub></td>
-<td align="center" width="180"><b>~15%</b><br><sub>cloud cost cut</sub></td>
-<td align="center" width="180"><b>23%</b><br><sub>fewer incidents</sub></td>
-</tr>
-</table>
+| 15% cloud cost ↓ | 40% faster deploys | 150+ devs enabled | 99.9% uptime |
+|:---:|:---:|:---:|:---:|
+| **50+** pipelines managed | **23%** fewer incidents | **30+** vulns remediated | **🏆** Hackathon winner |
 
-<br>
+---
 
-## `$ kubectl top pods --namespace=career` — live GitHub signal
+### 🛠️ &nbsp;Tech Stack
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ashwinberyl&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashwinberyl&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8" />
-
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwinberyl&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8" />
+<a href="#"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" height="60" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="60" height="60" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="60" height="60" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="Database" width="60" height="60" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="60" height="60" /></a>
 
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=terraform,grafana,prometheus,jenkins,bash,linux,azure,git,helm,postgres,vscode&theme=dark&perline=11" />
+
+<br><br>
+
+`ArgoCD` `Helm` `CloudFormation` `SonarQube` `BlackDuck` `Trivy` `OWASP` `Datadog` `DORA Metrics` `GitOps` `MCP Servers` `GenAI/LLMs`
+
+<br>
 </div>
 
-<br>
-
-## `$ tail -f /var/log/currently_building.log`
-
-```diff
-+ mcp-server/jira        collapsing ticket triage into one interface
-+ mcp-server/postgres    automated pre-dashboard data validation
-+ spec-to-code (LLM)     closing requirements → working code, faster
-```
-
-<br>
-
-## `$ ./contribution-graph.sh --animate`
+---
 
 <div align="center">
 
-<!-- snake animation: see setup note below -->
-<img src="https://raw.githubusercontent.com/ashwinberyl/ashwinberyl/output/github-contribution-grid-snake.svg" width="100%" />
-
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=4000&pause=3000&color=6E7681&center=true&vCenter=true&repeat=true&width=380&lines=%24+echo+%22Let's+build+something+extraordinary.%22" />
 
 <br>
 
-## `$ cat toolchain.env`
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,githubactions,python,grafana,prometheus&theme=dark" />
-
-</div>
+<sub>📍 Bengaluru · ☕ Filter coffee & `kubectl` · 🔨 Built with precision</sub>
 
 <br>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer"/>
-
-**[ashwinberyl.github.io](https://ashwinberyl.github.io)** · **[ashwinberyl@gmail.com](mailto:ashwinberyl@gmail.com)**
+![](https://komarev.com/ghpvc/?username=ashwinberyl&style=flat-square&color=161b22&label=views)
 
 </div>
