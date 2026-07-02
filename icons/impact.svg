@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#58a6ff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+  <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2">
+    <animate attributeName="opacity" values="0.4;1;0.4" dur="2s" repeatCount="indefinite" />
+  </polygon>
+  <polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2" stroke="#58a6ff" stroke-width="4" opacity="0">
+    <animate attributeName="opacity" values="0;0.25;0" dur="2s" repeatCount="indefinite" />
+  </polygon>
+</svg>
