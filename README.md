@@ -6,17 +6,19 @@
 
 **Platform Engineer · DevSecOps · 8 Years**
 
-*I write apps & I build the ground they stand on.*
+*I don't write apps. I build the ground they stand on.*
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=flat-square&logo=googlechrome&logoColor=white)](https://ashwinberyl.github.io)
-[![Email](https://img.shields.io/badge/Email-3fb950?style=flat-square&logo=gmail&logoColor=white)](mailto:ashwinberyl@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-f78166?style=flat-square&logo=hashnode&logoColor=white)](https://ashwinberyl.github.io/blogs/)
+[![Portfolio](https://img.shields.io/badge/🌐_ashwinberyl.github.io-Visit_Portfolio-58a6ff?style=for-the-badge&labelColor=0d1117)](https://ashwinberyl.github.io)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/📬_ashwinberyl@gmail.com-Say_Hello-3fb950?style=for-the-badge&labelColor=0d1117)](mailto:ashwinberyl@gmail.com)
+&nbsp;&nbsp;
+[![Blog](https://img.shields.io/badge/✍️_Technical_Blog-Read_Posts-f78166?style=for-the-badge&labelColor=0d1117)](https://ashwinberyl.github.io/blogs/)
 
 </div>
 
 ---
 
-### 👤 &nbsp;About Me
+### <img src="./icons/about.svg" width="25"> &nbsp;About Me
 
 ```yaml
 location: Bengaluru, India
@@ -31,7 +33,7 @@ philosophy: >
 
 ---
 
-### ⚡ &nbsp;Impact
+### <img src="./icons/impact.svg" width="25"> &nbsp;Impact
 
 | 15% cloud cost ↓ | 40% faster deploys | 150+ devs enabled | 99.9% uptime |
 |:---:|:---:|:---:|:---:|
@@ -39,27 +41,28 @@ philosophy: >
 
 ---
 
-### 🛠️ &nbsp;Tech Stack
+### <img src="./icons/techstack.svg" width="25"> &nbsp;Tech Stack
 
 <div align="center">
 <br>
 
-<a href="#"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="60" height="60" /></a>
-<a href="#"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="60" height="60" /></a>
-<a href="#"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="60" height="60" /></a>
-<a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="60" height="60" /></a>
-<a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="60" height="60" /></a>
-<a href="#"><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="60" height="60" /></a>
-<a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="Database" width="60" height="60" /></a>
-<a href="#"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="60" height="60" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="55" height="55" /></a>
+&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="55" height="55" /></a>
+&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="55" height="55" /></a>
+&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" /></a>
+&nbsp;
+<a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub Actions" width="55" height="55" /></a>
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=terraform,grafana,prometheus,jenkins,bash,linux,azure,git,helm,postgres,vscode&theme=dark&perline=11" />
+<img src="https://skillicons.dev/icons?i=terraform,grafana,prometheus,jenkins,bash,linux,azure,git,helm,postgres&theme=dark&perline=10" />
 
 <br><br>
 
-`ArgoCD` `Helm` `CloudFormation` `SonarQube` `BlackDuck` `Trivy` `OWASP` `Datadog` `DORA Metrics` `GitOps` `MCP Servers` `GenAI/LLMs`
+`ArgoCD` `CloudFormation` `Helm` `GitOps` `SonarQube` `BlackDuck` `Trivy` `OWASP` `Datadog` `DORA Metrics` `MCP Servers` `GenAI / LLMs`
 
 <br>
 </div>
