@@ -6,7 +6,7 @@
 
 **Platform Engineer · DevSecOps · 8 Years**
 
-*I don't write apps. I build the ground they stand on.*
+*I can write apps. I choose to build the ground they stand on.*
 
 [![Portfolio](https://img.shields.io/badge/🌐_ashwinberyl.github.io-Visit_Portfolio-58a6ff?style=for-the-badge&labelColor=0d1117)](https://ashwinberyl.github.io)
 &nbsp;&nbsp;
@@ -16,7 +16,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" width="100%" />
 
 ### <img src="./icons/about.svg" width="25"> &nbsp;About Me
 
@@ -31,15 +31,21 @@ philosophy: >
   need to think about infra — they should just ship.
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" width="100%" />
 
 ### <img src="./icons/impact.svg" width="25"> &nbsp;Impact
 
-| 15% cloud cost ↓ | 40% faster deploys | 150+ devs enabled | 99.9% uptime |
-|:---:|:---:|:---:|:---:|
-| **50+** pipelines managed | **23%** fewer incidents | **30+** vulns remediated | **🏆** Hackathon winner |
+<div align="center">
+  <img src="./icons/tile1.svg" width="48%" />&nbsp;<img src="./icons/tile2.svg" width="48%" />
+  <br>
+  <img src="./icons/tile3.svg" width="48%" />&nbsp;<img src="./icons/tile4.svg" width="48%" />
+  <br>
+  <img src="./icons/tile5.svg" width="48%" />&nbsp;<img src="./icons/tile6.svg" width="48%" />
+  <br>
+  <img src="./icons/tile7.svg" width="48%" />&nbsp;<img src="./icons/tile8.svg" width="48%" />
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" width="100%" />
 
 ### <img src="./icons/techstack.svg" width="25"> &nbsp;Tech Stack
 
@@ -58,16 +64,13 @@ philosophy: >
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=terraform,grafana,prometheus,jenkins,bash,linux,azure,git,helm,postgres&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=terraform,grafana,prometheus,jenkins,bash,linux,git,postgres&theme=dark&perline=10" />
 
 <br><br>
 
-`ArgoCD` `CloudFormation` `Helm` `GitOps` `SonarQube` `BlackDuck` `Trivy` `OWASP` `Datadog` `DORA Metrics` `MCP Servers` `GenAI / LLMs`
-
-<br>
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" width="100%" />
 
 <div align="center">
 
@@ -75,7 +78,7 @@ philosophy: >
 
 <br>
 
-<sub>📍 Bengaluru · ☕ Filter coffee & `kubectl` · 🔨 Built with precision</sub>
+<sub>📍 Bengaluru </sub>
 
 <br>
 
